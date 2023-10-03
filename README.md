@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src "https://github.com/Melomario57/Melomario57/assets/146278966/d6263488-0c58-4492-a729-d64ecd8a66f9"/>
+    <img src "https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="400" />
     <h1 align="center">Hi there👋 i´m Mario and welcome to my profile</h1>
     <h3 align="cenyer">A passionate beginner Front end developer from México. I´m willing to learn the indispensable tools and technologies to become an Full Stack develper and        get an opportunity in the future to work in the tech industry.
     </h3>
