@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src "https://static01.nyt.com/images/2022/04/04/multimedia/15ai-nocode/15ai-nocode-videoSixteenByNineJumbo1600.jpg" width="300"/>
+    <img src "https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="500"/>
     <h1 align="center">Hi there👋 i´m Mario and welcome to my profile</h1>
     <h3 align="cenyer">A passionate beginner Front end developer from México. I´m willing to learn the indispensable tools and technologies to become an Full Stack develper and        get an opportunity in the future to work in the tech industry.
     </h3>
