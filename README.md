@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    ![name-banner](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif)
+    ![name-banner](![imagen](https://github.com/Melomario57/Melomario57/assets/146278966/06a690d7-37a3-48bb-9347-d27566207153)
     <h1 align="center">Hi there👋 i´m Mario and welcome to my profile</h1>
     <h3 align="cenyer">A passionate beginner Front end developer from México. I´m willing to learn the indispensable tools and technologies to become an Full Stack develper and        get an opportunity in the future to work in the tech industry.
     </h3>
