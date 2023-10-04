@@ -1,14 +1,12 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="700" height="320" />
-    
-Hi there👋 i´m Mario and welcome to my profile
+    ###Hi there👋 i´m Mario and welcome to my profile
 
 A passionate beginner Front end developer from México. 
 
 I´m willing to learn the indispensable tools and technologies to become an Full Stack developer and i hope to get an opportunity in the future to work in the tech industry.
   
 About me:
-
 - Now i´m finishing a Javascript course.
   
 - I´ve completed classic videogames using Javascript.
