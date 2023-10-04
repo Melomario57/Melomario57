@@ -7,13 +7,13 @@ A passionate beginner Front end developer from México.
 I´m willing to learn the indispensable tools and technologies to become an Full Stack developer and i hope to get an opportunity in the future to work in the tech industry.
   
 About me:
-- Now i´m finishing a Javascript course.
+-🌱Now i´m finishing a Javascript course.
   
-- I´ve completed classic videogames using Javascript.
+-🌱I´ve completed classic videogames using Javascript.
 
-- I enjoy following and meet people who are working as a web developer or data analyst.
+-👯I enjoy following and meet people who are working as a web developer or data analyst.
 
-- My next goal is learn the following frameworks: React, Svelte, Vue and Angular.
+-✨My next goal is learn the following frameworks: React, Svelte, Vue and Angular.
 
 
 Languages and Tools:
