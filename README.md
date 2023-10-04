@@ -1,6 +1,6 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="700" height="320" />
-    ###Hi there👋 i´m Mario and welcome to my profile
+<img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="700" height="320" />
+
+###Hi there👋 i´m Mario and welcome to my profile
 
 A passionate beginner Front end developer from México. 
 
