@@ -4,7 +4,7 @@ Hi there👋 i´m Mario and welcome to my profile
 
 A passionate beginner Front end developer from México. 
 
-I´m willing to learn the indispensable tools and technologies to become an Full Stack developer and i hope to get an opportunity in the future to work in the tech industry.
+I´m willing to learn the indispensable tools and technologies to become an Full Stack developer and i hope to get an opportunity in the future to work for the tech industry.
 
 ---
 
