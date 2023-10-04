@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="900" height="320" />
 
-Hi there👋 i´m Mario and welcome to my profile
+# Hi there👋 i´m Mario and welcome to my profile
 
 A passionate beginner Front end developer from México. 
 
@@ -8,7 +8,7 @@ I´m willing to learn the indispensable tools and technologies to become an Full
 
 ---
 
-🤔About me:
+## 🤔About me:
 
 -🌱Now i´m finishing a Javascript course.
   
@@ -20,7 +20,7 @@ I´m willing to learn the indispensable tools and technologies to become an Full
 
 ---
 
-Languages and Tools:
+## Languages and Tools:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
