@@ -10,13 +10,13 @@ I´m willing to learn the indispensable tools and technologies to become an Full
 
 ## 🤔About me:
 
--🌱Now i´m finishing a Javascript course.
+-🌱Now i´m finishing a web development Bootcamp.
   
--🌱I´ve completed classic videogames using Javascript.
+-🌱I´ve completed some projects using HTML and CSS.
 
--👯I enjoy following and meet people who are working as a web developer or data analyst.
+-👯I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is learn the following frameworks: React, Svelte, Vue and Angular.
+-✨My next goal is learn the following frameworks: React and node.js.
 
 ---
 
