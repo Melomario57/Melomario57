@@ -16,7 +16,7 @@ I´m willing to learn the indispensable tools and technologies to become an Full
 
 -👯I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is learn the following frameworks: React and node.js.
+-✨My next goal is how to use Javascript.
 
 ---
 
