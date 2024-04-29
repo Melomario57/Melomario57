@@ -14,7 +14,7 @@ I´m willing to learn the indispensable tools and technologies to become a Full 
   
 -🌱I´ve completed some projects using HTML and CSS.
 
--👯I enjoy following and meet people who are working in the tech industry.
+-💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
 -✨My next goal is how to use Javascript.
 
