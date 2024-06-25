@@ -12,7 +12,7 @@ I´m willing to learn the indispensable tools and technologies to become a Full 
 
 -🌱Now i´m finishing a web development Bootcamp.
   
--🌱I´ve completed some projects using HTML and CSS.
+-🌱I´ve completed some projects using HTML, CSS and JS.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
