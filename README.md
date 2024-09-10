@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="500" height="250" />
+<img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="900px" height="250" />
 
 # Hi there👋 i´m Mario and welcome to my profile
 
