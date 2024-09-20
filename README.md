@@ -4,7 +4,7 @@
 
 A passionate web developer student from México. 
 
-I´m willing to learn the indispensable tools and technologies to become a Full Stack Dev and get an opportunity to work for the tech industry in the future.
+I´m willing to learn the indispensable tools and technologies to become a Backend Developer and get an opportunity to work for the tech industry in the future.
 
 ---
 
@@ -16,7 +16,7 @@ I´m willing to learn the indispensable tools and technologies to become a Full 
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is how to use Javascript.
+-✨My next goal is how to use React.
 
 ---
 
