@@ -11,8 +11,12 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 ## 🤔About me:
 
 -🌱Now i´m finishing a web development Bootcamp.
+
+-🌱Reading a book about programming basic concepts.
+
+-🌱Learning java to improve my coding skills
   
--🌱I´ve completed some projects using HTML, CSS and JS.
+-🌱I´ve completed some projects using HTML, CSS, JS and React.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
@@ -25,6 +29,7 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 
 
