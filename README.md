@@ -20,7 +20,7 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is how to use React.
+-✨My next goal is how to use NodeJs.
 
 ---
 
