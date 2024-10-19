@@ -10,13 +10,13 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 
 ## 🤔About me:
 
--🌱Now i´m finishing a web development Bootcamp.
+-🌱Completing a web development course.
 
--🌱I enjoy reading books about programming basic concepts.
+-🌱Currently, i'm reading a book about programming basic concepts.
 
--🌱Learning java to improve my coding skills
+-🌱Learning java to improve my coding skills.
   
--🌱I´ve completed some projects using HTML, CSS, JS and React.
+-🌱Building some projects using HTML, CSS, JS and React.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
