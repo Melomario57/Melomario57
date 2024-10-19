@@ -12,7 +12,7 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 
 -🌱Now i´m finishing a web development Bootcamp.
 
--🌱Reading a book about programming basic concepts.
+-🌱I enjoy reading books about programming basic concepts.
 
 -🌱Learning java to improve my coding skills
   
@@ -20,7 +20,7 @@ I´m willing to learn the indispensable tools and technologies to become a Backe
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is how to use NodeJs.
+-✨My next goal is how to use NodeJs and Express.
 
 ---
 
