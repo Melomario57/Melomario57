@@ -4,11 +4,6 @@
 
 A passionate web developer student from México. 
 
-I started coding cause always it was very intersting for me that´s the reason why i´ve been studyng by myself in several platforms just to be sure if programming would be my future profession. When i started to study, i'd watch videos about the different tech areas and the most interesting area in mi opinion was web development so that freedcode camp was chosen for me to learn more abaut the basic concepts in web development. 
-
-After finishing many tasks on that platform, i asked to myself which path should i choose frontend or backend, this choice was really tough cause my knowledge in frontend was bigger than backend. So while i was thinking about this situation, a friend of mine who is working as a data analyst told me about the programming language java and its uses in the backend then i'd searched on internet many articles explaining why java is so important over the years and it's frameworks.
-
-Currently, i'm  still practicing frontend and backend at the same time, by making some frontend projects and learning the basics of java as well. On the other hand, my main goal is to get an opportunity to work in the tech industry and to reach my goal, I'm willing to learn the indispensable tools and technologies to become a Backend Developer.
 
 ---
 
