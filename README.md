@@ -3,6 +3,9 @@
 # Hi there👋 i'm Mario and welcome to my profile
 
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
+<div align=center>
+  <a href="linkedin.com/in/mario-melo-núñez"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> 
+</div>
 
 ## 🤔About me:
 
@@ -13,8 +16,6 @@ A passionate web developer student from México who enjoy creating accesible and
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
-
--✨My next goal is how to create a complete project by using my frontend and backend skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
