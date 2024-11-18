@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://www.canva.com/design/DAGW3nImUoQ/GPjnSH0j7EaALOwobumXsQ/edit?utm_content=DAGW3nImUoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  border="0"  width="900" height="250" />
+![Mario Melo Núñez Web Developer](https://github.com/user-attachments/assets/6a95be9c-f6fc-4362-b333-ce9aacd32b6c)
+
 # Hi there👋 i'm Mario and welcome to my profile
 
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
