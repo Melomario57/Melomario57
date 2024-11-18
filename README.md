@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![logo]([https://github.com/arjunsingh27/arjunsingh27/blob/main/1.jpg](https://www.canva.com/design/DAGW3nImUoQ/GPjnSH0j7EaALOwobumXsQ/edit?utm_content=DAGW3nImUoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img src="https://www.canva.com/design/DAGW3nImUoQ/GPjnSH0j7EaALOwobumXsQ/edit?utm_content=DAGW3nImUoQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 # Hi there👋 i'm Mario and welcome to my profile
 
