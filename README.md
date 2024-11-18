@@ -9,17 +9,17 @@ A passionate web developer student from México.
 
 ## 🤔About me:
 
--🌱Completing a web development course.
+-🌱Completing a web development program.
 
 -🌱Currently, i'm reading a book about programming basic concepts.
 
 -🌱Learning java to improve my coding skills.
   
--🌱Building some projects using HTML, CSS, JS and React.
+-🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
--✨My next goal is how to use NodeJs and Express.
+-✨My next goal is how to create a complete project by using my frontend and backend skills.
 
 ---
 
