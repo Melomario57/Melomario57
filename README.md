@@ -4,9 +4,6 @@
 
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 
-
----
-
 ## 🤔About me:
 
 -🌱Completing a web development program.
