@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="900" height="250" />
+<img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"  border="0"  width="900" height="180" />
 
 # Hi there👋 i'm Mario and welcome to my profile
 
-A passionate web developer student from México. 
+A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 
 
 ---
@@ -11,9 +11,7 @@ A passionate web developer student from México.
 
 -🌱Completing a web development program.
 
--🌱Currently, i'm reading a book about programming basic concepts.
-
--🌱Learning java to improve my coding skills.
+-🌱Learning java for a deep comprehending of Object Oriented Programming.
   
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
