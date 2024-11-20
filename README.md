@@ -10,9 +10,10 @@
 
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 <div align=center>
-  <a href="https://www.linkedin.com/in/mario-melo-n%C3%BA%C3%B1ez/"><img src="https://img.shields.io/static/v1?style=for-the badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  
+  <a href="https://www.linkedin.com/in/mario-melo-n%C3%BA%C3%B1ez/"><img src="https://img.shields.io/static/v1?style=for-the badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" height=30 /></a>  
+   <a href="https://www.instagram.com/mariomelonz"><img src="https://img.shields.io/badge/-mariomelonz-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="LinkedIn" height=30 /></a> 
 <a href="https://github.com/Melomario57" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Melomario57&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=Melomario57&label=Views&color=brightgreen&style=flat-square" height=30 alt="views on github" />
   </a>
 </div>
 
@@ -28,7 +29,7 @@ A passionate web developer student from México who enjoy creating accesible and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Languages and Tools:
+<h2> Tools and Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -39,6 +40,17 @@ A passionate web developer student from México who enjoy creating accesible and
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
+<div align=center>
+<h2 align="center"><u>My top projects</u></h2>
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Web_Project_Around](https://github.com/Melomario57/web_project_around_react)_            | Interactive web page about the states of the USA |
+| _[web_project_around_auth ](https://github.com/Melomario57/web_project_around_auth)_                          | The previous web has been upgraded by using React  |
+| _[web_project_around_express](https://github.com/Melomario57/web_project_around_express)_                | A server was created for working on the side of the backend            |
+
+<h4 align="center">All of these are open source!</h4>
+</div>
 
 
 
