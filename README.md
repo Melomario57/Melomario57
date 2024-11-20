@@ -16,6 +16,7 @@ A passionate web developer student from México who enjoy creating accesible and
     <img src="https://komarev.com/ghpvc/?username=Melomario57&label=Views&color=brightgreen&style=flat-square" height=30 alt="views on github" />
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤔About me:
 
@@ -26,8 +27,6 @@ A passionate web developer student from México who enjoy creating accesible and
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2> Tools and Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
