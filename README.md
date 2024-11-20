@@ -1,7 +1,12 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 <img src="https://github.com/user-attachments/assets/d82c5d3e-7b06-44d4-8873-af93a3c8037a" width="1000" height="300">
+</p>
 
-# Hi there👋 i'm Mario and welcome to my profile
+<h1> Hi there< Developers/ >!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> i'm Mario and welcome to my profile  </h1>
+<p align='center'>
+</p>
 
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 <div align=center>
