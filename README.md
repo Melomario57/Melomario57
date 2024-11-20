@@ -41,7 +41,7 @@ A passionate web developer student from México who enjoy creating accesible and
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
 <div align=center>
-<h2 align="center"><u>My top projects</u></h2>
+<h2 align="center"><u>:star2:My top projects</u></h2>
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
