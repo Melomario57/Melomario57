@@ -11,6 +11,9 @@
 A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 <div align=center>
   <a href="https://www.linkedin.com/in/mario-melo-n%C3%BA%C3%B1ez/"><img src="https://img.shields.io/static/v1?style=for-the badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  
+<a href="https://github.com/Melomario57" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Melomario57&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
 </div>
 
 ## 🤔About me:
