@@ -44,7 +44,7 @@ A passionate web developer student from México who enjoy creating accesible and
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Web_Project_Around](https://github.com/Melomario57/web_project_around_react)_            | An interactive web page about the states of the USA |
+| _[Web_project_around_react](https://github.com/Melomario57/web_project_around_react)_            | An interactive web page about the states of the USA |
 | _[web_project_around_auth ](https://github.com/Melomario57/web_project_around_auth)_                     | The previous web has been upgraded by adding authentication features   |
 | _[web_project_around_express](https://github.com/Melomario57/web_project_around_express)_                | A server was created for working on the side of the backend            |
 
