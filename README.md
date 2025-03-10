@@ -20,9 +20,9 @@ A passionate web developer student from México who enjoy creating accesible and
 
 ## 🤔About me:
 
--🌱Completing a web development program.
+- :trophy:I've concluded a web development program.
 
--🌱Learning java for a deep comprehending of Object Oriented Programming.
+-🌱Collaborating in the development of a customizable chatbot by using PHP and MySQL.
   
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
