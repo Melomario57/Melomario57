@@ -20,7 +20,7 @@ A passionate web developer student from México who enjoy creating accesible and
 
 ## 🤔About me:
 
-- :trophy:I've concluded a web development program.
+-:trophy:I've concluded a web development program.
 
 -🌱Collaborating in the development of a customizable chatbot by using PHP and MySQL.
   
