@@ -20,13 +20,13 @@ A passionate web developer from México who enjoy creating accesible and attract
 
 ## 🤔About me:
 
-- :trophy: I've concluded a web development program.
+-:trophy: I've concluded a web development program.
 
 -🌱Collaborating in the development of a fullstack E-Comerce website for Gemstones.
   
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
-- 🌱Concluding an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
+-🌱Concluding an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
