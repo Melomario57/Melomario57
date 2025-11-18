@@ -8,7 +8,7 @@
 <p align='center'>
 </p>
 
-A passionate web developer student from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
+A passionate web developer from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
 <div align=center>
   <a href="https://www.linkedin.com/in/mario-melo-desarrolladorweb/"><img src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" alt="LinkedIn" height=30 /></a>  
    <a href="https://www.instagram.com/mariomelonz"><img src="https://img.shields.io/badge/-mariomelonz-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Insta" height=30 /></a> 
@@ -22,9 +22,11 @@ A passionate web developer student from México who enjoy creating accesible and
 
 - :trophy: I've concluded a web development program.
 
--🌱Collaborating in the development of a customizable chatbot by using PHP and MySQL.
+-🌱Collaborating in the development of a fullstack E-Comerce website for Gemstones.
   
 -🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
+
+- 🌱Concluding an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
 
 -💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
 
