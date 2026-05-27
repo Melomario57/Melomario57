@@ -25,9 +25,9 @@ A passionate web developer from México who enjoy creating accesible and attract
   
 - 🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
 
-- 🌱Concluding an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
+- 🌱Completed an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
 
-- 💁🏻‍♂️I enjoy following and meet people who are working in the tech industry.
+- 💁🏻‍♂️Enjoy following and meet people who are working in the tech industry.
 
 <h2> Tools and Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
