@@ -19,15 +19,15 @@ A passionate web developer from México who enjoy creating accesible and attract
 
 ## 🤔About me:
 
-- :trophy: I've concluded a web development program.
+:trophy: Completed a comprehensive web development program.
 
-- :zap: Working as fullstack dev in Krono(Gemstones E-COMMERCE).
+:zap: Currently working as a Full-Stack Developer at Krono (Gemstones E-commerce).
 
-- :trophy: Completed an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
+:trophy: Completed an Udemy course, building interactive websites using JavaScript, MySQL, Sass, and PHP.
   
-- 🌱 Taking a DA + js exercises course to improve my logic.
+🌱 I'm taking a JavaScript course focused on Data Structures and Algorithms to improve my coding logic.
 
-- 💁🏻‍♂️Enjoy following and meet people who are working in the tech industry.
+💁🏻‍♂️ Enjoy connecting with and learning from people in the tech industry.
 
 <h2> Tools and Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
