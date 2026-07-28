@@ -21,11 +21,11 @@ A passionate web developer from México who enjoy creating accesible and attract
 
 - :trophy: I've concluded a web development program.
 
-- 🌱Collaborating in the development of a fullstack E-Comerce website for Gemstones.
-  
-- 🌱Building some projects using HTML, CSS, JS, React, NodeJs and Express.
+- :zap: Working as fullstack dev in Krono(Gemstones E-COMMERCE).
 
-- 🌱Completed an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
+- :trophy: Completed an udemy course by bulding intercative websites with Js, MySql, Sass and Php.
+  
+- 🌱 Taking a DA + js exercises course to improve my logic.
 
 - 💁🏻‍♂️Enjoy following and meet people who are working in the tech industry.
 
