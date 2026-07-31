@@ -23,7 +23,7 @@ A passionate web developer from México who enjoy creating accesible and attract
 
 :zap: Currently working as a Full-Stack Developer at Krono (Gemstones E-commerce).
 
-:trophy: Completed an Udemy course, building interactive websites using JavaScript, MySQL, Sass, and PHP.
+:trophy: Completed an Udemy course, building interactive websites using JavaScript, MySQL and PHP.
   
 🌱 I'm taking a JavaScript course focused on Data Structures and Algorithms to improve my coding logic.
 
