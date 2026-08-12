@@ -8,7 +8,8 @@
 <p align='center'>
 </p>
 
-A passionate web developer from México who enjoy creating accesible and attractive web pages. In addition to learn new technologies and improve my current coding skills. 
+A passionate web developer from México who enjoys creating accessible and attractive web pages, while continuously learning new technologies and improving my coding skills.
+
 <div align=center>
   <a href="https://www.linkedin.com/in/mario-melo-desarrolladorweb/"><img src="https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png" alt="LinkedIn" height=30 /></a>  
 <a href="https://github.com/Melomario57" target="_blank">
