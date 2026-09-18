@@ -50,8 +50,8 @@ A passionate web developer from México who enjoys creating accessible and attra
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Web_project_around_full_api ](https://github.com/Melomario57/web_project_api_full)_                     | Fullstack project developed by using a remote server and subdomains  features   |
-| _[Web_project_around_react](https://github.com/Melomario57/web_project_around_react)_            | An interactive web page about the states of the USA |
-| _[Web_project_around_express](https://github.com/Melomario57/web_project_around_express)_                | A local server was created for working on the side of the backend            |
+| _[Web_project_around_react](https://github.com/Melomario57/web_project_around_react)_            | Photo gallery page about some states of the USA |
+| _[Web_project_around_express](https://github.com/Melomario57/project-pokedex-frontend)_                | Interactive pokemon website(shiny version)            |
 
 
 <h4 align="center">All of these are open source!</h4>
